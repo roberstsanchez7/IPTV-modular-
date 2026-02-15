@@ -1,4 +1,4 @@
-# Security Policy
+privacy.html
 
 ## Supported Versions
 
