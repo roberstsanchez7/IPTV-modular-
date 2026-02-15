@@ -1,2 +1,2 @@
 # IPTV-modular-
-Privacy policy html
+Privacy html
