@@ -1,4 +1,5 @@
 privacy.html
+IPTV.modular
 
 ## Supported Versions
 
