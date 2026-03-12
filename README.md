@@ -1,1 +1,1 @@
-privacidad.html
+privacy.html
